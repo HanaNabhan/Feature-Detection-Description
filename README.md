@@ -14,7 +14,6 @@ Fast and efficient, works well for real-time applications.
 Robust to scale and rotation, but slower.  
 ![SIFT Features](images/sift_features.png)
 
-*(Upload your generated images into an `images/` folder in the repo and replace the links above.)*
 
 ---
 
