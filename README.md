@@ -1,10 +1,5 @@
 # 🔍 Feature Detection & Description in Action  
-
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?logo=opencv)  
-![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)  
-![License](https://img.shields.io/badge/License-MIT-green)
-
-A hands-on exploration of **feature detection and description** techniques using OpenCV.  
+An exploration of **feature detection and description** techniques.  
 This project compares **ORB and SIFT** methods on sample images to highlight their strengths and weaknesses in real-world computer vision tasks.  
 
 ---
