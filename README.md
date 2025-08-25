@@ -8,11 +8,11 @@ This project compares **ORB and SIFT** methods on sample images to highlight the
 
 ### ORB (FAST + Binary Descriptors)  
 Fast and efficient, works well for real-time applications.  
-![ORB Features](images/orb_features.png)
+![ORB Features](orb+flann.png)
 
 ### SIFT (Scale-Invariant Feature Transform)  
 Robust to scale and rotation, but slower.  
-![SIFT Features](images/sift_features.png)
+![SIFT Features](sift+flann.png)
 
 
 ---
